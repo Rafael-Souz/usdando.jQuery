@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+}
+h1{
+  color: blanchedalmond;
+}
+ul{
+  font-size: 35px;
+}
+li{
+  display: inline-block;
+  color: blanchedalmond;
+}
+#btn{
+  font-size: 20px;
+  right: 35px;
+}
