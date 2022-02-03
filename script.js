@@ -5,3 +5,6 @@ $('#btn').on("click",button)
 function button(){
   $('li').css({'color':'blue'})
 }//function faz a cor do (li) ficar azul
+
+$('h1').css({'color' : 'blue'})
+
